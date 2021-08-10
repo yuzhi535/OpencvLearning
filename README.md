@@ -1,2 +1,2 @@
 # OpencvLearning
-Learn OenCV
+Learn OpenCV
